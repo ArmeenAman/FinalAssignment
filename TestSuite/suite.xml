@@ -1,0 +1,9 @@
+<suite name ="Test Suite Final Assignment">
+    <test name =" Sample Assignment 2 Test">
+        <classes>
+            <class name = "Tests.LoginPageTests"/>
+            <class name = "Tests.HomePageTests"/>
+            <class name = "Tests.AboutPageTests"/>
+        </classes>
+    </test>
+</suite>
